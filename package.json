@@ -2,8 +2,8 @@
   "name": "template-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "private": true,
-  "description": "A short description of your theme",
+  "private": false,
+  "description": "A template syntax theme to build from",
   "repository": "https://github.com/atom/template-syntax",
   "license": "MIT",
   "engines": {
