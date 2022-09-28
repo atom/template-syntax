@@ -1,4 +1,5 @@
-# Atom Template Syntax Theme
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # Atom Template Syntax Theme
 
 This is a template syntax theme. Its goal is to be an example or template for
 you to build from. See the less files in the `stylesheets` directory.
